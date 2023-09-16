@@ -1,4 +1,4 @@
-# CLOWNS.COOL-RYBKI
+# CLOWNS COOL AUTO ŁOWIENIE RYBEK (SKRYPT NA RYBAKA)
 
 1. Używasz na własną odpowiedzialność
 2. Jebać zjebów z fivema a gitów szanować
