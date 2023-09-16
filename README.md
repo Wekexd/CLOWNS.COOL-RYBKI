@@ -8,10 +8,10 @@
 0. zainstaluj pythona
 1. Nie chciało mi się robić requirements więc komendy masz tu
 
-pip install pywin32
-pip install pillow
-pip install pytesseract
-pip install pynput
+ - pip install pywin32
+ - pip install pillow
+ - pip install pytesseract
+ - pip install pynput
 
 jak coś tam jeszcze jest to sobie doinstaluj
    
