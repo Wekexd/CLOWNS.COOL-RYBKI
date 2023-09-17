@@ -16,6 +16,7 @@
 jak coś tam jeszcze jest to sobie doinstaluj
    
 3. Zmieniasz sciezka_tesseractocr na swoją, tutaj link do pobrania https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.1.20230401.exe - kopiujesz ścieżke tego shitu i / zamieniasz na \
+UWAGA NA KONCU TEJ ACIEZKI MUSI BYC TESSERACT.EXE
 4. te reset to później jak ci za szybko będzie wędke puszczało to wdupcasz na idk 2x więcej albo ile tam chcesz byle więcej
 5. jezeli ci nie wykrwa to sie pobaw kordami w bbox (linia 33)
 
