@@ -26,4 +26,8 @@ UWAGA NA KONCU TEJ ACIEZKI MUSI BYC TESSERACT.EXE
 3. Zmieniasz rozdzielczość na 1600x900 i aspect ratio na auto
 4. Odpalasz i masz
 
+jak nie umiesz odpalać skryptów pythona z cmd to tu masz mini poradnik
+
+![zdj1](https://imgur.com/EVI1GW1)
+
 ## W3KE ON TOP
