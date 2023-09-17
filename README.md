@@ -28,6 +28,6 @@ UWAGA NA KONCU TEJ ACIEZKI MUSI BYC TESSERACT.EXE
 
 jak nie umiesz odpalać skryptów pythona z cmd to tu masz mini poradnik
 
-![zdj1](https://imgur.com/EVI1GW1)
+![zdj1](https://imgur.com/EVI1GW1.png)
 
 ## W3KE ON TOP
