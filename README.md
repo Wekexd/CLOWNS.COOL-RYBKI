@@ -28,6 +28,21 @@ UWAGA NA KONCU TEJ ACIEZKI MUSI BYC TESSERACT.EXE
 
 jak nie umiesz odpalać skryptów pythona z cmd to tu masz mini poradnik
 
+klikasz w te czerwone zaznaczone na ss
 ![zdj1](https://imgur.com/EVI1GW1.png)
+
+usuwasz tam wszystko i wpisujesz cmd i klikasz enter
+
+![zdj2](https://imgur.com/AqNosiY.png)
+
+w cmd wpisujesz py Skrypt.py i tak samo enter
+
+![zdj3](https://imgur.com/W3QBc2Q.png)
+
+jak masz m.w. tak jak na obrazku (nie wyskoczyło ci nic tylko zmieniła się nazwa okna, to oznacza że jest git i możesz zacząć łowić)
+
+![zdj3](https://imgur.com/VlxRXPd.png)
+
+idziesz na łowisko, klikasz e i czekasz na rybcie, ryba się łowi i jest ez ez
 
 ## W3KE ON TOP
