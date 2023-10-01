@@ -48,7 +48,7 @@ idziesz na łowisko, klikasz e i czekasz na rybcie, ryba się łowi i jest ez ez
 ## UWAGA JAK MASZ TAK PRZESUNIETE TE UI
 ![zdj4](https://i.imgur.com/HP1Tez1.png)
 
+TO W 33 LINIJCE ZMIEN NA TO
 ```image = ImageGrab.grab(bbox=((w) - 150, h + 290 + 45, (w) + 150, h + 350 + 45))```
-TO ZAMIEN 33 LINIJKE NA TO: 
 
 ## W3KE ON TOP
