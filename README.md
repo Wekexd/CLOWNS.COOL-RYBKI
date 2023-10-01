@@ -46,7 +46,7 @@ jak masz m.w. tak jak na obrazku (nie wyskoczyło ci nic tylko zmieniła się na
 idziesz na łowisko, klikasz e i czekasz na rybcie, ryba się łowi i jest ez ez
 
 ## UWAGA JAK MASZ TAK PRZESUNIETE TE UI
-![zdj4](https://imgur.com/a/0koYLjO.png)
+![[zdj4](https://i.imgur.com/HP1Tez1.png)
 ```image = ImageGrab.grab(bbox=((w) - 150, h + 290 + 45, (w) + 150, h + 350 + 45))```
 TO ZAMIEN 33 LINIJKE NA TO: 
 
